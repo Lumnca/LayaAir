@@ -1,10 +1,8 @@
-# :incoming_envelope:UI #
+# :dart:UI #
 
 在LayaAir的编译器中，我们可以去使用它的UI工具可以自动的帮我们编辑一些场景，动画之类的东西。但是使用工具只是会将图像UI转化为代码，一个UI类，需要我们去调用实现这个类。
 
 首先使用工具完成一个UI制作,如下是UI的一些简单介绍与样式：
-
-
 
 
 ![](https://github.com/Lumnca/LayaAir/blob/master/img/a4.png)
